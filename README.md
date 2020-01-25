@@ -1,2 +1,2 @@
 # JBDC-UfpiMusic
-Implementação do sistema de streaming de músicas em banco de dados(MySQL).
+Implementation of the music streaming system in the database (MySQL).
