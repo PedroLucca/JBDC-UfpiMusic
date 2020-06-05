@@ -20,7 +20,7 @@ public class Conexao {
   			  Class.forName("com.mysql.jdbc.Driver");
 			  for (int i = 0; i < 10; i++){
 				conexoes[i] = DriverManager.getConnection(
-						"jdbc:mysql://localhost/ufpimusic?useSSL=false", "root", "pedromae02");
+						"jdbc:mysql://localhost/ufpimusic?useSSL=false", "root", "");
 			  }
 			} catch (Exception e) {
 				e.printStackTrace(System.out);
